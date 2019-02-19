@@ -1,0 +1,13 @@
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuUygulamasi.Giris.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Properties.Resources.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuUygulamasi.csproj.GenerateResource.Cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.pdb

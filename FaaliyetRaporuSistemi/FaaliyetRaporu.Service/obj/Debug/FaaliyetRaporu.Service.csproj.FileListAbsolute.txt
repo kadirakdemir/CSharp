@@ -1,0 +1,45 @@
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\EntityFramework.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\EntityFramework.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csproj.CoreCompileInputs.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csproj.CopyComplete
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Service.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Service.pdb
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\EntityFramework.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.pdb
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.dll.config
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.pdb
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.dll.config
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\EntityFramework.xml
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csprojAssemblyReference.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csproj.CopyComplete
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\EntityFramework.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\bin\Debug\EntityFramework.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csprojAssemblyReference.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.csproj.CopyComplete
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Service\obj\Debug\FaaliyetRaporu.Service.pdb

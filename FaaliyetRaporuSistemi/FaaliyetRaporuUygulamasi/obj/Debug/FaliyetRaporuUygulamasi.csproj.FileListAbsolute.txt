@@ -1,0 +1,9 @@
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Giris.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Properties.Resources.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.csproj.GenerateResource.Cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaliyetRaporuSistemi\FaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.pdb

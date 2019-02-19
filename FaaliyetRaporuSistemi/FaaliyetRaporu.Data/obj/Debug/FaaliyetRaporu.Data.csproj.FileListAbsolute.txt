@@ -1,0 +1,45 @@
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csproj.CoreCompileInputs.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csproj.CopyComplete
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.dll.config
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.pdb
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.pdb
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.dll.config
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.xml
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csprojAssemblyReference.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csproj.CopyComplete
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csprojAssemblyReference.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.csproj.CopyComplete
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Data\obj\Debug\FaaliyetRaporu.Data.pdb

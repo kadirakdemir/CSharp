@@ -1,0 +1,63 @@
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.IOC.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.IOC.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Unity.Ioc.Framework.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\EntityFramework.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\EntityFramework.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\System.Web.Mvc.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\System.Web.Mvc.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\tr\System.Web.Mvc.resources.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.csprojAssemblyReference.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.IOC.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.IOC.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\System.Web.Mvc.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Unity.Ioc.Framework.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\EntityFramework.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\System.Web.Mvc.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\EntityFramework.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\bin\Debug\tr\System.Web.Mvc.resources.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.csprojAssemblyReference.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.csproj.CopyComplete
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.IOC\obj\Debug\FaaliyetRaporu.IOC.pdb

@@ -1,0 +1,131 @@
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.Giris.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Properties.Resources.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.GenerateResource.Cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.MasterPage.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Faaliyet.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Analiz.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Bul.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.IOC.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.IOC.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.DisaAktar.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.DisaAktarSecim.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.ResolveComReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\itextsharp.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\itextsharp.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.CoreCompileInputs.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Ayarlar.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.KullaniciAyarlar.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Yazdiriliyor.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.VeriEkleme.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.GirisCikisTarih.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.GenelAyarlar.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.KullaniciEkle.resources
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.CopyComplete
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csprojAssemblyReference.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\Interop.AcroPDFLib.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.ResolveComReference.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Analiz.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Ayarlar.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Bul.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.DisaAktar.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.DisaAktarSecim.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Faaliyet.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.GenelAyarlar.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.Giris.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.GirisCikisTarih.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.KullaniciAyarlar.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.KullaniciEkle.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.MasterPage.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Properties.Resources.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.VeriEkleme.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Yazdiriliyor.resources
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.GenerateResource.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.exe
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaliyetRaporuUygulamasi.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Data.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.IOC.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Service.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\itextsharp.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Data.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Data.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.IOC.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\FaaliyetRaporu.Service.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\itextsharp.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csprojAssemblyReference.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.ResolveComReference.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Analiz.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Ayarlar.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Bul.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.DisaAktar.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.DisaAktarSecim.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Faaliyet.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.GenelAyarlar.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.Giris.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.GirisCikisTarih.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.KullaniciAyarlar.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.KullaniciEkle.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.MasterPage.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Properties.Resources.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.VeriEkleme.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.Yazdiriliyor.resources
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.GenerateResource.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaaliyetRaporuWinForm.csproj.CopyComplete
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.exe
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporuUygulamasi\obj\Debug\FaliyetRaporuUygulamasi.pdb

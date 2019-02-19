@@ -1,0 +1,36 @@
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csproj.CoreCompileInputs.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2017\Projects\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csproj.CopyComplete
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.dll.config
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.pdb
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.xml
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csprojAssemblyReference.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csproj.CopyComplete
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.dll
+D:\Google Drive\Projeler\Başlangıç\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.dll.config
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\FaaliyetRaporu.Core.pdb
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csprojAssemblyReference.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.csproj.CopyComplete
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.dll
+C:\Users\MK\Desktop\FaaliyetRaporuSistemi\FaaliyetRaporu.Core\obj\Debug\FaaliyetRaporu.Core.pdb
