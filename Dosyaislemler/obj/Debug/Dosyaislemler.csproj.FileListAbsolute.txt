@@ -1,0 +1,6 @@
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Dosyaislemler\bin\Debug\Dosyaislemler.exe.config
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Dosyaislemler\bin\Debug\Dosyaislemler.exe
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Dosyaislemler\bin\Debug\Dosyaislemler.pdb
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Dosyaislemler\obj\Debug\Dosyaislemler.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Dosyaislemler\obj\Debug\Dosyaislemler.exe
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Dosyaislemler\obj\Debug\Dosyaislemler.pdb

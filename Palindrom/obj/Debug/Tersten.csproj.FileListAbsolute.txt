@@ -1,0 +1,6 @@
+c:\users\mk\documents\visual studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Tersten\bin\Debug\Tersten.exe.config
+c:\users\mk\documents\visual studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Tersten\bin\Debug\Tersten.exe
+c:\users\mk\documents\visual studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Tersten\bin\Debug\Tersten.pdb
+c:\users\mk\documents\visual studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Tersten\obj\Debug\Tersten.exe
+c:\users\mk\documents\visual studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Tersten\obj\Debug\Tersten.pdb
+c:\users\mk\documents\visual studio 2015\Projects\Nesneye_Yönelimli_Programlama(OOP)\Tersten\obj\Debug\Tersten.csprojResolveAssemblyReference.cache
